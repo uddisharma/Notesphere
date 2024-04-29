@@ -12,8 +12,8 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Jotion',
-  description: 'The connected workspace where better, faster work happens.',
+  title: 'NoteSphere',
+  description: '"NoteSphere: Your all-in-one platform for organizing thoughts, collaborating with teams, and bringing ideas to life."',
   icons: {
     icon: [
       {
@@ -45,7 +45,7 @@ export default function RootLayout({
               defaultTheme="system"
               enableSystem
               disableTransitionOnChange
-              storageKey="jotion-theme-2"
+              storageKey="NoteSphere-theme-2"
             >
               <Toaster position="bottom-center" />
               <ModalProvider />
