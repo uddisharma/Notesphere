@@ -1,8 +1,8 @@
 export default {
   providers: [
     {
-      domain: process.env.CONVEX_CLERK_ISSUER,
+      domain: "https://fit-redbird-82.clerk.accounts.dev",
       applicationID: "convex",
-    }
-  ]
-}
+    },
+  ],
+};
