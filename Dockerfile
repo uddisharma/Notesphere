@@ -10,4 +10,6 @@ COPY . .
 
 EXPOSE 3000
 
+CMD ["npx", "convex","dev"]
+
 CMD ["npm", "run", "dev"]
