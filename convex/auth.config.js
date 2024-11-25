@@ -1,7 +1,7 @@
 export default {
   providers: [
     {
-      domain: "https://fit-redbird-82.clerk.accounts.dev",
+      domain: "https://creative-polecat-70.clerk.accounts.dev",
       applicationID: "convex",
     },
   ],
