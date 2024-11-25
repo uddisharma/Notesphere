@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 
 export function constructMetadata({
-  title = `NoteSphere`,
+  title = `NoteSphere - An open source platform for your all-in-one platform for organizing thoughts, collaborating with teams, and bringing ideas to life.`,
   description = `NoteSphere: An open-source platform for your all-in-one platform for organizing thoughts, collaborating with teams, and bringing ideas to life.`,
   image = "https://files.edgestore.dev/j26azsoyqh7n72m2/myPublicFiles/_public/e69b9260-1fca-4b89-b7f0-46e882150c3e.png",
   video,
