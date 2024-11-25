@@ -18,7 +18,7 @@ export const Heading = () => {
         <span className="underline">NoteSphere</span>
       </h1>
       <h3 className="text-base sm:text-xl md:text-2xl font-medium">
-      The platform where ideas flow, projects flourish, <br />
+        The platform where ideas flow, projects flourish, <br />
         and teamwork shines.
       </h3>
       {isLoading && (

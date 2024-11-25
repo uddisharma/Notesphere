@@ -17,4 +17,4 @@ NoteSphere is a Notion-inspired note-taking application that allows users to cre
 - Database: Convex
 - Authentication: Clerk
 - Rich Editor : Blockquote
-- Deployment: Vercel 
+- Deployment: Vercel
